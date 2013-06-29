@@ -30,4 +30,4 @@ To convert shapefiles to geojson and reproject, you'll need [ogr2ogr](http://www
 
 ## Fine print
 
-> The data made available here has been modified for use from its original source, which is the Government of New York City. The information contained in the BYTES of the BIG APPLE files was compiled for governmental use by the New York City Department of City Planning. The Department and the City make no representation as to the accuracy of the information or its suitability for any purpose. The Department and the City disclaim any liability for errors that may be contained therein.
+> The data made available here has been modified for use from its original source, which is the Government of Maryland. The information contained in files was compiled for governmental use by the Maryland Department of Planning and other agencies.
